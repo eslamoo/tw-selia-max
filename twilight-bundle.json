@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-selia-max",
+        "en": "tw-selia-max"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "seliaagency@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/eslamoo/tw-selia-max",
+    "components": []
+}
